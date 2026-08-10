@@ -52,7 +52,7 @@ The datasets were loaded using Pandas and checked for:
 - Missing values
 - Duplicate records
 - Categorical values
-
+![Cleaned Dataset](cleaned_data/cleandataset2.PNG)
 Example:
 
 ```python
@@ -60,4 +60,8 @@ df.isnull().sum()
 df.duplicated().sum()
 df.dtypes
 
-![Cleaned Dataset](cleaned_data/cleandataset2.PNG)
+## Week 1 Report
+
+The complete Week 1 data collection and cleaning report is available below.
+
+[📄 View Week 1 Report (PDF)](Apparel_Textiles_Data_Collection_and_Cleaning_Report%20.pdf)
