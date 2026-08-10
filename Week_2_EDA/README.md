@@ -63,13 +63,13 @@ Examples include:
 
 ### Product Distribution by Gender
 
-![Gender Distribution](charts/genderdistribution.png)
+![Gender Distribution](charts/genderdistribution.PNG)
 
 **Figure 2: Product Distribution by Gender**
 
 ### Product Price Distribution
 
-![Price Distribution](charts/pricedistribution.png)
+![Price Distribution](charts/pricedistribution.PNG)
 
 **Figure 3: Product Price Distribution**
 
