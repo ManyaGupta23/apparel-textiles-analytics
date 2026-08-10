@@ -88,8 +88,8 @@ The transformed data was checked for:
 
 - `mapping/` — Brand/category mapping files
 - `integrated_data/` — Integrated and transformed dataset
-- `Week_3_Integration_Report.pdf` — Detailed Week 3 report
-- `Week_3_Data_Integration.ipynb` — Python/Colab notebook, if used
+- `Week 3 Integration data Report.pdf` — Detailed Week 3 report
+- `ETL process.ipynb` — Python/Colab notebook, if used
 
 ## Tools Used
 
