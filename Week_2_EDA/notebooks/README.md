@@ -52,7 +52,7 @@ Identified the most frequently occurring primary colors.
 
 The main notebook contains the complete Python code and analysis performed during Week 2.
 
-**File:** `Week_2_EDA.ipynb`
+**File:** `Apparel_Textiles_Data_Cleaning.ipynb`
 
 ## Output
 
