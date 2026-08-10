@@ -60,4 +60,4 @@ df.isnull().sum()
 df.duplicated().sum()
 df.dtypes
 
-![Raw Dataset](cleaned_data/cleandataset2.PNG)
+![Cleaned Dataset](cleaned_data/cleandataset2.PNG)
