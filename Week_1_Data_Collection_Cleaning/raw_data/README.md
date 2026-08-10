@@ -63,7 +63,3 @@ The datasets were obtained from publicly available sources and were used for edu
 ## Data Processing
 
 The original datasets were retained separately as raw data. Data cleaning, transformation, missing-value handling, standardization, and integration were performed in later stages of the project.
-
-## Important Note
-
-The raw data should not be modified directly. Cleaned and transformed versions are stored separately to maintain a clear distinction between the original source data and processed data.
