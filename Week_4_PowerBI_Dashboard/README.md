@@ -38,7 +38,37 @@ The dashboard includes visualizations such as:
 - Average Price by Brand
 
 These charts help stakeholders understand product portfolios, customer segments, and pricing patterns.
+## Dashboard Visualizations
 
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/Apparel%20%26%20textile%20dashboard.PNG)
+
+**Figure 1: Power BI Dashboard Overview**
+
+### KPI Cards
+
+![KPI Cards](screenshots/KPIs.PNG)
+
+**Figure 2: Key Performance Indicators**
+
+### Product Count by Brand
+
+![Product by Brand](screenshots/topbrandbyproductcount.PNG)
+
+**Figure 3: Product Count by Brand**
+
+### Product Distribution by Gender
+
+![Gender Distribution](screenshots/productdistributionbygender.PNG)
+
+**Figure 4: Product Distribution by Gender**
+
+### Average Price by Brand
+
+![Average Price](screenshots/averagepricebybrand.PNG)
+
+**Figure 5: Average Product Price by Brand**
 ## Interactive Filters
 
 The dashboard includes slicers for:
