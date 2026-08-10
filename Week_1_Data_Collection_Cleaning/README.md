@@ -53,12 +53,6 @@ The datasets were loaded using Pandas and checked for:
 - Duplicate records
 - Categorical values
 ![Cleaned Dataset](cleaned_data/cleandataset2.PNG)
-Example:
-
-```python
-df.isnull().sum()
-df.duplicated().sum()
-df.dtypes
 
 ## Week 1 Report
 
