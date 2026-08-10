@@ -6,7 +6,7 @@ This folder contains the Power BI dashboard created during Week 4.
 
 The main Power BI file is:
 
-`Apparel_Dashboard.pbix`
+`Apparel_Textiles_Interactive_Dashboard.pbix`
 
 The dashboard contains:
 
