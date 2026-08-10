@@ -51,7 +51,7 @@ These filters allow users to interactively explore the data and examine specific
 
 ## Dashboard Preview
 
-![Power BI Dashboard](screenshots/Apparel_Dashboard.png)
+![Power BI Dashboard](Apparel%20%26%20textile%20dashboard.PNG)
 
 **Figure 1: Interactive Apparel & Textiles Power BI Dashboard**
 
