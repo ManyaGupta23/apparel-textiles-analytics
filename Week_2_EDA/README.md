@@ -53,6 +53,26 @@ Examples include:
 - Product Distribution by Gender
 - Product Price Distribution
 - Product Color Distribution
+  ## EDA Visualizations
+
+### Brand-wise Product Distribution
+
+![Brand Distribution](charts/top10brand.PNG)
+
+**Figure 1: Brand-wise Product Distribution**
+
+### Product Distribution by Gender
+
+![Gender Distribution](charts/genderdistribution.png)
+
+**Figure 2: Product Distribution by Gender**
+
+### Product Price Distribution
+
+![Price Distribution](charts/pricedistribution.png)
+
+**Figure 3: Product Price Distribution**
+
 
 ## Key Insights
 
