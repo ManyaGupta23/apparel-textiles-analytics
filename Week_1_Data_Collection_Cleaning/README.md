@@ -52,7 +52,7 @@ The datasets were loaded using Pandas and checked for:
 - Missing values
 - Duplicate records
 - Categorical values
-![Cleaned Dataset](cleaned_data/cleandataset2.PNG)
+![Cleaned Dataset](cleaned_data/cleaneddataset2.PNG)
 
 ## Week 1 Report
 
