@@ -84,7 +84,7 @@ Trend-related charts created during Week 5 are stored in the `charts/` folder.
 
 ## Report
 
-[📄 View Week 5 Trend & Forecasting Report (PDF)](Week_5_Trend_Forecasting/Week_5_Trend_Analysis_and_Forecasting_Report.pdf)
+[📄 View Week 5 Trend & Forecasting Report (PDF).(Week_5_Trend_Analysis_and_Forecasting_Report.pdf)
 
 ## Next Step
 
