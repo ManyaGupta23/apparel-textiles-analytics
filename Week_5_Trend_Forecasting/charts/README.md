@@ -29,12 +29,12 @@ These charts help communicate patterns identified in the apparel dataset and sup
 
 ### Gender Distribution
 
-![Gender Distribution](charts/genderdistribution.PNG)
+![Gender Distribution](genderdistribution.PNG)
 
 ### Brand Trend
 
-![Brand Trend](charts/top10brand.PNG)
+![Brand Trend](top10brand.PNG)
 
 ### Pricing Distribution
 
-![Pricing Distribution](charts/pricedistribution.PNG)
+![Pricing Distribution](pricedistribution.PNG)
