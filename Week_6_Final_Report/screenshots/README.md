@@ -17,7 +17,7 @@ These screenshots provide visual evidence of the analytical work completed throu
 
 ### 1. Cleaned Data — Week 1
 
-![Cleaned Data](cleaneddata.PNG)
+![Cleaned Data](cleaneddataset2.PNG)
 
 Data was cleaned and prepared for further analysis.
 
