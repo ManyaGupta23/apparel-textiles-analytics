@@ -136,7 +136,7 @@ The fourth stage focused on developing an interactive business intelligence dash
 
 ### 📊 Project Evidence
 
-![Power BI Dashboard](Week_6_Final_Report/screenshots/Apparel%20&%20textiledashboard.PNG)
+![Power BI Dashboard](Week_6_Final_Report/screenshots/Apparel%20%26%20textile%20dashboard.PNG)
 
 ### 📁 Detailed Work
 
