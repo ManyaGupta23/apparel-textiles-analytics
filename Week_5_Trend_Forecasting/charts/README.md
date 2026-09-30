@@ -24,3 +24,17 @@ These charts help communicate patterns identified in the apparel dataset and sup
 - Pandas
 - Matplotlib
 - Google Colab / Jupyter Notebook
+
+## 📊 Trend Analysis Visualizations
+
+### Price Trend
+
+![Price Trend](charts/price_trend.png)
+
+### Brand Trend
+
+![Brand Trend](charts/brand_trend.png)
+
+### Pricing Distribution
+
+![Pricing Distribution](charts/pricing_distribution.png)
