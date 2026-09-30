@@ -81,7 +81,20 @@ Trend-related charts created during Week 5 are stored in the `charts/` folder.
 - `notebooks/` — Python/Colab forecasting notebook
 - `charts/` — Trend analysis visualizations
 - `Apparel_Textiles_Trend_Forecasting_Report.pdf` — Detailed Week 5 report
+  
+## 📊 Trend Analysis Visualizations
 
+### Gender Distribution
+
+![Gender Distribution](charts/genderdistribution.PNG)
+
+### Brand Trend
+
+![Brand Trend](charts/top10brand.PNG)
+
+### Pricing Distribution
+
+![Pricing Distribution](charts/pricedistribution.PNG)
 ## Report
 
 [📄 View Week 5 Trend & Forecasting Report (PDF)](Week_5_Trend_Analysis_and_Forecasting_Report.pdf)
